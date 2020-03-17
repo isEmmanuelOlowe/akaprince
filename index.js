@@ -10,6 +10,4 @@ window.addEventListener("scroll", function() {
   let offset = window.pageYOffset;
   parallax.item(0).style.backgroundPositionY = offset * 0.5 + "px";
   parallax.item(1).style.backgroundPositionY = offset * 0.5 + "px";
-  navbar.style.opacity = 1;
-  navbar.style.width = "50%";
 });
