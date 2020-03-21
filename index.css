@@ -35,12 +35,13 @@
 
 #section1 button {
   margin-top: 5rem;
-  font-size: 4rem;
+  font-size: 3vw;
   text-decoration: none;
 }
 
 #section1 button a {
   text-decoration: none;
+  color: white;
 }
 
 #section2 img {
