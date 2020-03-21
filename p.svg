@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="p.svg"
+   inkscape:version="1.0beta2 (4382de7, 2020-02-18)"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="D:\Sprint\Hatai\akaprince\p.png"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 793.74998 793.75001"
+   height="3000"
+   width="3000">
+  <defs
+     id="defs2">
+    <rect
+       id="rect835"
+       height="543.14322"
+       width="489.38884"
+       y="194.85963"
+       x="153.42396" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="1515.0792"
+     inkscape:cx="1519.141"
+     inkscape:zoom="0.23625982"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="matrix(73.790933,0,0,73.790933,-11145.422,-14513.027)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Puruaran;-inkscape-font-specification:Puruaran;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect835);fill:#800000;"
+       id="text833"
+       xml:space="preserve"><tspan
+         sodipodi:role="line"
+         x="153.42383"
+         y="204.64893"><tspan>P</tspan></tspan></text>
+  </g>
+</svg>

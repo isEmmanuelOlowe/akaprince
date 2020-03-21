@@ -1,5 +1,5 @@
 const parallax = document.getElementsByClassName('parallax');
-const navbar = document.getElementsByClassName('navbar').item(0)
+
 var body = document.body,
     html = document.documentElement;
 
