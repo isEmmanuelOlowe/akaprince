@@ -5,6 +5,18 @@
   font-family: monospace;
 }
 
+.custom-nav {
+  max-width: 100%;
+  height: 100px;
+}
+
+.navbar .navbar-brand img {
+  height: 150px;
+}
+
+.collapse .navbar-nav .nav-item a {
+  color: white;
+}
 .section {
   display: flex;
   align-items: center;
@@ -20,9 +32,7 @@
   padding: 10px 24px;
 }
 #section1 {
-  background-image: url("images/Prince.png");
-  background-size: cover;
-  background-position: center;
+  background-color: black;
 }
 
 #section2 {
